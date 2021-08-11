@@ -1,0 +1,31 @@
+body{
+    background-color: peru;
+    text-align: center;
+    padding: 20px;   
+}
+h1{
+    color: crimson;
+    padding: 20px;
+    font-size: 60px;
+    font-family: 'style script', cursive;
+}
+
+h2{
+    color: rgb(31, 80, 143);
+    padding: 10px; 
+    font-size: 50px;   
+}
+
+p{
+    font-size: 40px;
+    padding: 10px;
+  color: black;
+}
+
+img{
+    border: 5px solid rgb(109, 71, 67);
+    border-radius: 20px;
+    height: 300px;
+    width: 300px;
+}
+
